@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StayNest Pro – Hotel, Resort & Room Booking Management Platform
 
 StayNest Pro is an enterprise-grade backend developed with **FastAPI**, **Python**, **MySQL**, **SQLAlchemy ORM**, **Pydantic v2**, and **JWT Authentication** implementing **Role-Based Access Control (RBAC)** across multi-tier user roles (**CUSTOMER**, **HOTEL_OWNER**, **HOTEL_STAFF**, **ADMIN**).
@@ -278,3 +279,6 @@ All 50 modules are organized into decoupled layers (`models`, `schemas`, `crud`,
 4. Set the active environment to **StayNest Pro Environment**.
 5. Run the **Authentication and RBAC** -> **1. Admin Login** request. The test script will automatically save your `access_token` into the environment, authenticating all subsequent requests.
 
+=======
+# Hotal_booking
+>>>>>>> 8d1cfe18b5675485a32778cc3c118771148e85de
